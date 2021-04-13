@@ -7,5 +7,9 @@ namespace GithubProject
 {
     public class Test2
     {
+        public void Add()
+        {
+
+        }
     }
 }
