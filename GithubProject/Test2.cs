@@ -9,7 +9,7 @@ namespace GithubProject
     {
         public void Add()
         {
-
+            Console.WriteLine("hello");
         }
     }
 }
